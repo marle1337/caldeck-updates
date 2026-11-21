@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CalDeck</title>
+    <item>
+      <title>CalDeck 0.1.0 (43)</title>
+      <pubDate>Sat, 21 Nov 2026 14:07:53 GMT</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Stop the repeated keychain password prompts after updates</p><ul><li>Login and license data now live in a private folder (0700/0600) in</li><li>Application Support instead of the keychain. Without an Apple team ID,</li><li>macOS ties keychain access to the exact build, so every update asked for</li><li>the password once per item. Old keychain items are no longer read; a</li><li>Microsoft sign-in has to be done once more.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/marle1337/caldeck-updates/main/CalDeck-0.1.0-build43.zip" length="5299529" type="application/octet-stream" sparkle:edSignature="jCDELIlD4HucQvLUCPJTtTWgUuVBzIwJKzWfNv3NcS99jL/UKS3nj2uOD+nz8sddXzQKPwhk6PA3GTDKwiwnBA=="/>
+    </item>
+  </channel>
+</rss>
