@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CalDeck</title>
+    <item>
+      <title>CalDeck 1.4.0 (132)</title>
+      <pubDate>Fri, 27 Nov 2026 20:15:38 GMT</pubDate>
+      <sparkle:version>132</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description xml:lang="da"><![CDATA[<p>CalDeck 1.4.0</p><ul><li>Julestemning (1.–25. december): sne, lyskæde, nedtælling til juleaften, julekalender med 24 låger, en nisse med julevitser, nissehue på Dock-ikonet og ekstra pynt på juleaften. CalDeck spørger 1. december</li><li>Nytår: nedtælling og fyrværkeri ved midnat</li><li>Gamle notifikationer ryddes selv væk: morgenoverblikket efter arbejdstid, påmindelser når aftalen er slut</li><li>Panelet til højre åbner aftaler i kalenderen</li><li>“Ferie uge 29” i hurtig indtastning dækker nu hele ugen</li><li>Nyt installationsvindue</li></ul>]]></description>
+      <description xml:lang="en"><![CDATA[<p>CalDeck 1.4.0</p><ul><li>Christmas spirit (1–25 December): snow, fairy lights, a countdown to Christmas Eve, an Advent calendar with 24 doors, an elf with Christmas jokes, a Santa hat on the Dock icon and extra decorations on the big day. CalDeck asks on 1 December</li><li>New Year: countdown and fireworks at midnight</li><li>Old notifications clear themselves: the morning briefing after work hours, reminders when the event is over</li><li>The side panel opens events in the calendar</li><li>“Holiday week 29” in quick entry now covers the whole week</li><li>New install window</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/marle1337/caldeck-updates/main/CalDeck-1.4.0-build132.zip" length="7104956" type="application/octet-stream" sparkle:edSignature="lRtr86sDGfLn+Dk9xLeIoudyyesw86Sns6mMpM11eU53g9SkPxsegZ8mIRzrrDcL+AYpRDk4V1dFGGc8lQOYAw=="/>
+    </item>
+  </channel>
+</rss>
