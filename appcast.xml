@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CalDeck</title>
+    <item>
+      <title>CalDeck 1.4.0 DEV 131 (131)</title>
+      <pubDate>Fri, 27 Nov 2026 20:13:56 GMT</pubDate>
+      <sparkle:version>131</sparkle:version>
+      <sparkle:shortVersionString>1.4.0 DEV 131</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Release notes for 1.4.0</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/marle1337/caldeck-updates/beta/CalDeck-1.4.0-build131.zip" length="7104932" type="application/octet-stream" sparkle:edSignature="TZNsW6rN6FLTFSXW+pp7wkrJb01bBRQB/wY/J8mC2xkIlCpW+Xph3WmOsQKAKA//YRQnUGTyMpBq9jjJGj/pBw=="/>
+    </item>
+  </channel>
+</rss>
